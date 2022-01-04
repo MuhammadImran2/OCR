@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="hello">Hello! Capture or choose an image from gallery to perform OCR</string>
+</resources>
